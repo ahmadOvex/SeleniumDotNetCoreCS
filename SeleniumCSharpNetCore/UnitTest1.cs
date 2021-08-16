@@ -35,7 +35,7 @@ namespace SeleniumCSharpNetCore
             Thread.Sleep(milliseconds);
 
             CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo", "Almonds");
-            Console.WriteLine("Test1");
+            //Console.WriteLine("Test1");
             Assert.Pass();
             Driver.Close();
         }

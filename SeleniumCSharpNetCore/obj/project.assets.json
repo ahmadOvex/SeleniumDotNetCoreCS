@@ -4329,11 +4329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\SeleniumDotNetCoreCS\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "projectName": "SeleniumCSharpNetCore",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\SeleniumDotNetCoreCS\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\SeleniumDotNetCoreCS\\SeleniumCSharpNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4416,7 +4416,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
